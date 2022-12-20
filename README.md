@@ -1,4 +1,4 @@
 # spring_course_mvc_hibernate_aop
 MVC(tomcat)+Hibernate(mySQL)+AOP
 
-Вывод через View таблицы работников БД mySQL с возможностью CRUD команд и их логированием.
+Вывод на jsp странице, таблицы работников из БД(mySQL) с возможностью CRUD команд, а так же логирование этих команд.
